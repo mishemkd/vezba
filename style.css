@@ -1,0 +1,24 @@
+.inline {
+    display: inline-block;
+}
+ul li a {
+    color: grey;
+    font-size: 16px;
+}
+.bgimg {
+    background-image: url(mountains.jpg);
+    background-size: cover;
+    height: 70vh;
+}
+.rgba {
+    background-color: rgba(72, 182, 180, 0.62);
+    height: 100%;
+}
+.mtop {
+    margin-top: 50px;
+    
+}
+.mboth {
+    margin-top:50px;
+    margin-bottom: 50px;
+}
